@@ -12,4 +12,4 @@ aim to create a syntax that generated and interpreted with neural networks and s
 
 References
 ==========
-[1] "Using Artificial Intelligence to Write Self-Modifying/Improving Programs" http://www.primaryobjects.com/CMS/Article149.aspx
+[1] Kory Becker (2013). "<a href="http://www.primaryobjects.com/CMS/Article149.aspx">Using Artificial Intelligence to Write Self-Modifying/Improving Programs</a>". primaryobjects.com.
