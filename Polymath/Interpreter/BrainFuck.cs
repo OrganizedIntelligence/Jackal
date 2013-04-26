@@ -2,6 +2,9 @@
 // later. Decided to write the interpreter since I didn't see any c# implementations that
 // were easy to find and use.
 //
+// I'll be adding methods to load from a string, or load from a file and tidy up the novel
+// crammed into one line in the example.
+//
 // This is simple enough to implement.
 // Example:
 // 
