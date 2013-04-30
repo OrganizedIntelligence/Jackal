@@ -30,8 +30,7 @@
 // 2013-04-26
 //
 // This is not a pretty implementation. I'll clean up the file and add better commenting
-// later. Decided to write the interpreter since I didn't see any c# implementations that
-// were easy to find and use.
+// later.
 //
 // I'll be adding methods to load from a string, or load from a file and tidy up the novel
 // crammed into one line in the example.
